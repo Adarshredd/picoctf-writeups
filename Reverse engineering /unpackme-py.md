@@ -26,4 +26,4 @@ u get the flag in output
 ![image](https://github.com/Adarshredd/picoctf-writeups/assets/145366498/ce861b2e-0c78-4d48-9024-28177fe3c970)
 
 
-`print('picoCTF{175_chr157m45_5274ff21}')`
+`picoCTF{175_chr157m45_5274ff21}`

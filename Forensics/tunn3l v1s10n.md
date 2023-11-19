@@ -14,4 +14,6 @@ then I tried the terminal<br>
 didn't get anything
 
 so looked to open the file in an online hex editor<br>
+![image](https://github.com/Adarshredd/picoctf-writeups/assets/145366498/294242cd-3c68-4fd6-b960-56c57049fadd)
+
 

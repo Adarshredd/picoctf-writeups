@@ -19,3 +19,15 @@ use ROT13 on `plan`
 it says
 `I USED THE PROGRAM AND HID IT WITH-DUE DILIGENCE. CHECK OUT THE PHOTOS`
 
+I extracted `program.deb` and went through it to find out that it is "steghide"<br>
+use `sudo apt install steghide` to install it <br>
+then `steghide extract -sf picture3.bmp `<br>
+enter the phrase `DUEDILIGENCE`<br>
+
+```py
+wrote extracted data to "flag.txt".
+```
+
+![image](https://github.com/Adarshredd/picoctf-writeups/assets/145366498/6777de50-4609-4317-9076-f66ce4876d62)
+
+flag: `picoCTF{h1dd3n_1n_pLa1n_51GHT_18375919}`
